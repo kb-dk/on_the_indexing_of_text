@@ -22,6 +22,6 @@ such as dinner speakers who need exact quotations of love poetry for
 their wedding talks.
 
 It is a common misunderstanding that books are important. Bookworms
-are only interested in books as they are carriers of the text. Books
-and pages as such are for people thinking about typography and book
-binding.
+are only interested in books inasmuch as they are carriers of the
+text. Books and pages as such are for people thinking about
+paleography, typography and book binding or book art in a broad sense.
