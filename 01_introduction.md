@@ -14,7 +14,7 @@ of blueberry bushes_ or _jam recipes_. Fact is all about aboutishness,
 the audience is motorcycle owners and others in need for facts.
 
 Searching literary texts is different. All fiction is about love,
-sex, solitude, illness and death (and only a few other related
+sex, hatred, solitude, illness and death (and only a few other related
 topics). These subjects are usually covered in detail in fairly long
 texts (such as novels) without ever explicitly mentioning those
 terms. The audience is book worms and other people in search for love,
