@@ -25,3 +25,4 @@ It is a common misunderstanding that books are important. Bookworms
 are only interested in books inasmuch as they are carriers of the
 text. Books and pages as such are for people thinking about
 paleography, typography and book binding or book art in a broad sense.
+
