@@ -1,0 +1,23 @@
+
+     <bibl xml:id="biblid61796">
+        <title xml:id="idm140121311521216">Naar Kærligheden dør</title>
+     </bibl>
+
+
+
+
+     <div xml:id="workid61796" decls="#biblid61796">
+        <head xml:id="idm140121310569520">NAAR KÆRLIGHEDEN DØR -<lb xml:id="idm140121310569200"/>ET SØRGESPIL I EN AKT.</head>
+
+     ...
+
+	<sp xml:id="idm140121310552672">
+	  <speaker xml:id="idm140121310552416">ADDA.</speaker>
+	  <p xml:id="idm140121310552000">Nej, jeg har kun ventet paa Dig. Jeg
+	    kan jo ikke gøre andet, naar Du skal komme, end bare at vente ...</p>
+	  <p xml:id="idm140121310551392">Jeg bestiller jo ikke andet end at
+	    længes, naar Du ikke er hos mig.  <note resp="#ed" anchored="true"
+	    xml:id="idm140121310550960">*) d.v.s: For de Spillende.</note></p>
+          <pb n="54" facs="adl/bang/bang6/bang6054" xml:id="s054"/>
+          <p xml:id="idm140121310548608">Og Du?</p>
+	</sp>

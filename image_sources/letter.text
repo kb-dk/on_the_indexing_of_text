@@ -1,0 +1,76 @@
+  <bibl xml:id="bibL0019900980010036" status="completed">
+    <date xml:id="idm38b69f87-069c-4f5e-877c-2baf20bf41ab">1861-06-22</date>
+    <respStmt xml:id="idmccc32136-fdf9-458e-8e71-c8c7a4504fb3">
+      <resp>sender</resp>
+      <name xml:id="personidm140619108185296" ref="bb/9a/21/f3/bb9a21f3-d0ce-4c00-9018-ccb1adcd3497">
+	<surname>Heiberg</surname>, <forename>Johanne Luise</forename>
+      </name>
+    </respStmt>
+    <respStmt xml:id="idm28388cd0-e89d-4411-a7c7-bdf4618703c2">
+      <resp>recipient</resp>
+      <name xml:id="personpersonf22918e3-0911-4dac-a85b-753f19b54e5b" ref="a4/3f/be/76/a43fbe76-45b7-4314-92da-66fd451316e5">
+	<surname>Krieger</surname>, <forename>Andreas Frederik</forename>
+      </name>
+    </respStmt>
+    <location type="sender" xml:id="idm3c437056-7f28-422f-80fc-71bda76ed77a">
+      <placeName>Bonderup</placeName>
+    </location>
+  </bibl>
+
+  <pb xml:id="idm140619108201152" 
+      n="18" 
+      facs="images/001990098_001/001990098_001_0036.jpg"/>
+  <div decls="bibL0019900980010036" n="36" xml:id="L0019900980010036" xml:lang="da-Dk">
+    <head xml:id="idm140619108199312">
+      <geogName xml:id="idm140619108199184" type="sender" 
+		sameAs="idm3c437056-7f28-422f-80fc-71bda76ed77a">Bonderup</geogName>,
+      <date xml:id="idm140619108198800"
+	    sameAs="idm38b69f87-069c-4f5e-877c-2baf20bf41ab">d. 22. Juni 1861</date>.
+    </head>
+    <p xml:id="idm140619108198288">Tak for Underretningen om Deres og
+    Herholdts Komme. Kunde man nu ikke bevæge ham og Dem at overnatte
+    <pb xml:id="idm140619108197344" 
+	n="19"
+	facs="images/001990098_001/001990098_001_0037.jpg"/>
+    her og først tage herfra Torsdag Eftermiddag 61/2? Vi kunde da ret
+    i Mag tale om Alt. Lader det sig gjøre, veed jeg, De ikke siger
+    mig nei.</p>
+    <p xml:id="idm140619108196112">Jeg har ret været sjæle- og
+    legemsmat, siden vi sidst saaes. Det kommer vel og for en Deel af
+    den megen Torden, der er i Luften, og jeg hænger nu engang stærkt
+    sammen med Elementerne. I Løverdags Eftermiddag vandrede jeg ene
+    og beklemt om Hjertet, ind i Skoven, med Eckermanns "Gespräche mit
+    Goethe" i Haanden.  ... Det er jo uværdigt at være Medlem af
+    en Regje-ring paa den Maade. Andræ faar jo Ret i ikke at ville
+    være Minister, naar Hall er Udenrigsminister. Seer De Andræ, saa
+    siig ham, at jeg længes efter at tale med ham.</p>
+    <p xml:id="idm140619108191456">Jeg tænker saa ofte paa Dem med
+    Taknemmelighed, naar jeg gaaer her saa ene omkring. Paa al Deres
+    Godhed og Omsorg for mig. Deres milde - vist for milde - Dom over
+    mig. ... I disse <pb xml:id="idm140619108189824" n="20"
+    facs="images/001990098_001/001990098_001_0038.jpg"/>Aftener har
+    Naturen netop den Dragt paa, som omtales i dette vidunderlige
+    deilige Digt. ... Jeg er paa engang for ung og for gammel; for
+    ung til at afslutte mit Begnskab, for gammel til at begynde
+    forfra med nye Forhaabninger, nye Interesser, nyt Arbeide.
+    Dog jeg vilde jo ikke klage, altsaa - Punktum. -</p>
+    <p xml:id="idm140619108186672">Nu vil jeg glæde mig til at modtage
+    Dem paa Onsdag og takke Dem ret hjertelig for, at De kommer og
+    ikke trættes af at arbeide for mig, og endelig ønske, at De maa
+    kunne læse dette kludderagtige - ja det skal vel være et Brev
+    fra</p>
+    <p xml:id="idm140619108185808">Deres hengivne<lb
+    xml:id="idm140619108185552"/> <persName
+    xml:id="idm140619108185296" type="sender" key="Heiberg, Johanne
+    Luise" sameAs="#personidm140619108185296">Johanne Luise
+    Heiberg</persName>.</p>
+    <postscript xml:id="idm140619108184544">
+      <p xml:id="idm140619108184288">Jeg har kjæmpet med mig selv, om
+      jeg skulde sende dette Brev bort, dog Begyndelsen af Brevet
+      gjør, at jeg sender det.</p>
+    </postscript>
+  </div>
+  <pb xml:id="idm140619108183392" 
+      n="20" 
+      facs="images/001990098_001/001990098_001_0038.jpg"/>
+
