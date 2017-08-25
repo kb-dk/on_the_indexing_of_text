@@ -1,6 +1,8 @@
-# 2. Consequences of overlapping hierarchies
+[introduction](01_introduction.md) [on the theory of text](02_theory_of_text.md) [text genres](03_letter.md) [record vs text](04_records_vs_text.md) [filtering vs searching](05_filtering_vs_searching.md) [discussion](06_discussion.md) [references](07_references.md)
 
-Even the most simple text contains overlapping hierarchies, such that pages start and end out of sync with the start of end with paragraphs, sections and chapters.
+# 2. On the theory of text
+
+Consequences of overlapping hierarchies. Even the most simple text contains overlapping hierarchies, such that pages start and end out of sync with the start of end with paragraphs, sections and chapters.
 
 ![Basic structure of a text](https://rawgit.com/Det-Kongelige-Bibliotek/on_the_indexing_of_text/master/book.svg) Figure 1. 
 

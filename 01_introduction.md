@@ -1,8 +1,10 @@
+[introduction](01_introduction.md) [on the theory of text](02_theory_of_text.md) [text genres](03_letter.md) [record vs text](04_records_vs_text.md) [filtering vs searching](05_filtering_vs_searching.md) [discussion](06_discussion.md) [references](07_references.md)
+
 # 1. Introduction
 
 Book worms are interested in books inasmuch as they are carriers of a
 text. Book collectors are interested typography and book binding or
-book art in a broad sense.
+book art in a broad sense. In particular if it is valuable.
 
 There are other important distinctions, like the one between searching
 for texts and searching in texts. To search for texts implies search
