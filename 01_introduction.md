@@ -41,3 +41,5 @@ We do not
 
 - explore fiction subject search,
 - care about the physical structure except pagination
+
+[>>](02_theory_of_text.md)
