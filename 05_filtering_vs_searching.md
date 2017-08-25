@@ -2,7 +2,7 @@
 
 # 5. Querying vs Searching
 
-- Query languages (SQL, XQuery, Xpath)
-- Search engine, ranked search
+- Query languages (SQL, XQuery, Xpath etc)
+- Search engine (ranked search etc)
 
 [<<](04_records_vs_text.md) [>>](06_discussion.md)
