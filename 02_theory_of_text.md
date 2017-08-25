@@ -2,12 +2,28 @@
 
 # 2. On the theory of text
 
-Consequences of overlapping hierarchies. Even the most simple text contains overlapping hierarchies, such that pages start and end out of sync with the start of end with paragraphs, sections and chapters.
+Even the most simple text contains overlapping hierarchies, such that pages start and end out of sync with the start of end with paragraphs, sections and chapters.
 
 ![Basic structure of a text](https://rawgit.com/Det-Kongelige-Bibliotek/on_the_indexing_of_text/master/book.svg) Figure 1. 
 
-Renear et al. (1996) [describe various theories and how they effect the modelling of text](http://cds.library.brown.edu/resources/stg/monographs/ohco.html).
-Note that their contribution was presented at a congress 1993. It appeared long before text encoding where done in XML rather than SGML or other encoding schemas.
+## Consequences of overlapping hierarchies:
+
+- Renear et al. (1996) describe various theories of text and how to cope with them.
+[effect the modelling](http://cds.library.brown.edu/resources/stg/monographs/ohco.html).
+Their contribution was presented at a conference 1993, long before text encoding where done in XML rather than SGML.
+
+
+- C. M. Sperberg-McQueen and Claus Huitfeldt (2008) works on [Complex
+mark-up using their own language TexMECS](http://www.balisage.net/Proceedings/vol1/html/Sperberg-McQueen01/BalisageVol1-Sperberg-McQueen01.html).
+There are similar much more extreme mark-up languages. Experiences from the Wittgenstein archive.
+
+- Using standoff mark-up
+
+
+
+
+
+
 
 
 
