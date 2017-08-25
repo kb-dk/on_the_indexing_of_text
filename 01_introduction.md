@@ -31,7 +31,13 @@ The audience is book worms (and other people in search
 for love), and dinner speakers who need exact quotations of love
 poetry for wedding talks.
 
-This paper is about the building of a search index for fiction,
-enabling users to search for texts using elementary metadata and
-inside those texts. We do not explore subject of fiction, and we do
-not care very much about the book bindings and typography.
+## This paper is 
+
+- about the building of a search index for fiction,
+- enabling users to search for texts using elementary metadata
+- and also inside those texts.
+
+We do not 
+
+- explore fiction subject search,
+- care about the physical structure except pagination
