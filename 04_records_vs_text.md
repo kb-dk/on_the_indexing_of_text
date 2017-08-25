@@ -2,3 +2,5 @@
 
 # 4. Records vs Text
 
+[<<](03_prose.md) [>>](05_filtering_vs_searching.md)
+

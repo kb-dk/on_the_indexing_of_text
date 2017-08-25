@@ -5,3 +5,5 @@
 # 2c. Text Genres: Markup of a Piece of Prose
 
 ![Piece of prose with metadata](https://rawgit.com/Det-Kongelige-Bibliotek/on_the_indexing_of_text/master/prose.svg) Figure 5. 
+
+[<<](03_poetry.md) [>>](04_record_vs_text.md)
