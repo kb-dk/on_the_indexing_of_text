@@ -2,12 +2,12 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
 "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: fig2dev Version 3.2 Patchlevel 5e -->
-<!-- CreationDate: Thu Oct  5 09:15:01 2017 -->
+<!-- CreationDate: Thu Oct  5 10:40:32 2017 -->
 <!-- Magnification: 1.050 -->
 <svg	xmlns="http://www.w3.org/2000/svg"
 	xmlns:xlink="http://www.w3.org/1999/xlink"
-	width="4.5in" height="7.4in"
-	viewBox="86 1026 5383 8907">
+	width="5.2in" height="7.4in"
+	viewBox="-811 1026 6281 8907">
 <g style="stroke-width:.025in; fill:none">
 <!-- Line: box -->
 <rect x="2645" y="1039" width="1889" height="8881" rx="0" 
@@ -79,77 +79,17 @@ fill:#000000;"/>
 stroke-linejoin:miter; stroke-linecap:butt;
 stroke-dasharray:41 41;"/>
 <!-- Line -->
-<polyline points="897,2078
-2141,2078
+<polyline points="803,2173
+2198,2520
 " style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
-<!-- Arrowhead on XXXpoint 897 2078 - 2283 2078-->
-<polygon points="2104 2110
-2262 2078
-2104 2047
-2136 2078
-2104 2110
-
-" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
-fill:#000000;"/>
-<!-- Line -->
-<polyline points="855,2078
-2200,2512
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-"/>
-<!-- Arrowhead on XXXpoint 855 2078 - 2334 2555-->
-<polygon points="2155 2530
+<!-- Arrowhead on XXXpoint 803 2173 - 2334 2554-->
+<polygon points="2154 2540
 2314 2549
-2174 2470
-2194 2510
-2155 2530
-
-" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
-fill:#000000;"/>
-<!-- Line -->
-<polyline points="851,2078
-2209,2955
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-"/>
-<!-- Arrowhead on XXXpoint 851 2078 - 2328 3032-->
-<polygon points="2160 2960
-2310 3020
-2195 2908
-2204 2951
-2160 2960
-
-" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
-fill:#000000;"/>
-<!-- Line -->
-<polyline points="851,2078
-2225,3408
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-"/>
-<!-- Arrowhead on XXXpoint 851 2078 - 2326 3506-->
-<polygon points="2176 3404
-2311 3491
-2220 3359
-2220 3403
-2176 3404
-
-" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
-fill:#000000;"/>
-<!-- Line -->
-<polyline points="853,2078
-2240,3868
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-"/>
-<!-- Arrowhead on XXXpoint 853 2078 - 2327 3980-->
-<polygon points="2193 3857
-2314 3963
-2242 3819
-2237 3863
-2193 3857
+2169 2479
+2192 2518
+2154 2540
 
 " style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
 fill:#000000;"/>
@@ -171,6 +111,81 @@ style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 fill:#ffff00;
 "/>
+<!-- Line -->
+<polyline points="519,2456
+2218,3887
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 519 2456 - 2326 3977-->
+<polygon points="2169 3886
+2310 3964
+2209 3838
+2214 3882
+2169 3886
+
+" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="661,2362
+2211,3424
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 661 2362 - 2327 3504-->
+<polygon points="2162 3428
+2310 3492
+2198 3377
+2206 3421
+2162 3428
+
+" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="755,2267
+2201,2969
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 755 2267 - 2328 3029-->
+<polygon points="2153 2979
+2309 3020
+2181 2922
+2196 2964
+2153 2979
+
+" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="850,1984
+2193,1636
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 850 1984 - 2329 1602-->
+<polygon points="2164 1676
+2309 1607
+2149 1615
+2186 1638
+2164 1676
+
+" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="850,2078
+2188,2078
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 850 2078 - 2330 2078-->
+<polygon points="2152 2110
+2309 2078
+2152 2047
+2183 2078
+2152 2110
+
+" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
+fill:#000000;"/>
 <!-- Text -->
 <text xml:space="preserve" x="1795" y="1370" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="normal" font-size="152" text-anchor="end">Chapter 1</text>
 <!-- Text -->
@@ -326,7 +341,7 @@ fill:#ffffff;
 <!-- Text -->
 <text xml:space="preserve" x="4582" y="1606" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="152" text-anchor="start">Paragraph</text>
 <!-- Ellipse -->
-<ellipse transform="translate(897,2054) rotate(-0.00000000)" rx="803" ry="164"
+<ellipse transform="translate(0,2054) rotate(-0.00000000)" rx="803" ry="164"
  style="fill:#ffffff;stroke:#ffffff;stroke-width:8;"/>
 <!-- Line -->
 <polyline points="4346,3023
@@ -348,21 +363,6 @@ fill:#ffffff;
 stroke-linejoin:miter; stroke-linecap:butt;
 stroke-dasharray:41 41;fill:#ffffff;
 "/>
-<!-- Line -->
-<polyline points="944,2078
-2196,1646
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-"/>
-<!-- Arrowhead on XXXpoint 944 2078 - 2329 1601-->
-<polygon points="2170 1688
-2309 1607
-2150 1628
-2190 1648
-2170 1688
-
-" style="stroke:#000000;stroke-width:8;stroke-miterlimit:8;
-fill:#000000;"/>
 <!-- Line -->
 <polyline points="4346,1606
 2409,1606
@@ -437,6 +437,6 @@ stroke-dasharray:41 41;"/>
 stroke-linejoin:miter; stroke-linecap:butt;
 stroke-dasharray:41 41;"/>
 <!-- Text -->
-<text xml:space="preserve" x="377" y="2125" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="normal" font-size="152" text-anchor="start">Page break</text>
+<text xml:space="preserve" x="-519" y="2125" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="normal" font-size="152" text-anchor="start">Page break</text>
 </g>
 </svg>
