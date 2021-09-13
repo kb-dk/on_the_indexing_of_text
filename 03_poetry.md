@@ -5,3 +5,6 @@
 # 2c. Text genres: Markup of a piece of poetry
 
 ![Piece of poetry with metadata](https://rawgit.com/Det-Kongelige-Bibliotek/on_the_indexing_of_text/master/poetry.svg) Figure 4. 
+
+
+[<<](04_records_vs_text.md) [>>](04_records_vs_text.md)
